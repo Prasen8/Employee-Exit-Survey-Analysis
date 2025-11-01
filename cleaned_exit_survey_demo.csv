@@ -1,0 +1,301 @@
+employee_id,department,tenure_years,age,gender,satisfaction_score,manager_rating,last_promotion_years_ago,reason_for_leaving,exit_date,voluntary,is_senior_tenure,exit_month
+E0000,Sales,7.53,37,Male,7.0,3.0,7.0,Better pay,2024-05-28,1,1,2024-05
+E0001,Marketing,0.1,40,Non-binary,6.0,3.0,7.3,Performance termination,2025-03-26,0,0,2025-03
+E0002,Engineering,2.41,33,Male,6.0,3.0,1.0,Work-life balance,2024-10-21,1,0,2024-10
+E0003,Engineering,2.88,32,Male,5.0,4.0,0.7,Work-life balance,2024-09-07,1,0,2024-09
+E0004,Engineering,2.1,20,Female,5.0,4.0,2.8,Other,2025-08-10,1,0,2025-08
+E0005,Product,8.4,51,Female,4.0,3.0,0.4,Better pay,2024-06-17,1,1,2024-06
+E0006,Engineering,0.55,39,Female,7.0,3.0,2.2,Work-life balance,2023-11-18,1,0,2023-11
+E0007,Support,5.46,32,Male,5.0,4.0,1.5,Work-life balance,2025-09-17,1,1,2025-09
+E0008,Engineering,1.45,34,Male,6.0,4.0,5.7,Better pay,2023-11-03,1,0,2023-11
+E0009,Support,5.31,25,Female,5.0,3.0,0.8,Other,2024-10-19,1,1,2024-10
+E0010,Sales,5.93,38,Male,4.0,4.0,0.6,Work-life balance,2023-12-08,1,1,2023-12
+E0011,Marketing,0.98,24,Male,6.0,4.0,2.5,Career growth,2024-01-28,1,0,2024-01
+E0012,Sales,0.1,33,Male,8.0,3.0,0.6,Other,2024-07-20,1,0,2024-07
+E0013,Support,0.68,30,Female,7.0,5.0,0.8,Other,2024-11-10,1,0,2024-11
+E0014,Support,4.89,25,Female,5.0,4.0,2.7,Health,2025-05-04,1,0,2025-05
+E0015,Product,2.98,20,Male,6.0,4.0,4.6,Health,2025-08-26,1,0,2025-08
+E0016,Marketing,0.52,39,Female,5.0,4.0,2.2,Better pay,2024-10-29,1,0,2024-10
+E0017,Product,1.49,45,Non-binary,6.0,3.0,3.8,Other,2024-08-27,1,0,2024-08
+E0018,Sales,1.96,48,Male,6.0,4.0,2.1,Career growth,2024-06-08,1,0,2024-06
+E0019,Engineering,3.2,32,Male,3.0,4.0,0.9,Other,2025-08-26,1,0,2025-08
+E0020,Marketing,1.4,29,Male,7.0,4.0,5.3,Career growth,2023-11-16,1,0,2023-11
+E0021,Engineering,2.39,24,Non-binary,7.0,4.0,0.9,Health,2024-06-12,1,0,2024-06
+E0022,Sales,1.36,37,Male,3.0,3.0,1.7,Better pay,2023-10-06,1,0,2023-10
+E0023,Support,0.99,32,Male,6.0,4.0,0.7,Performance termination,2024-07-15,0,0,2024-07
+E0024,Sales,4.4,41,Male,6.0,4.0,0.6,Other,2024-06-15,1,0,2024-06
+E0025,Marketing,4.52,29,Female,6.0,3.0,0.4,Other,2025-02-07,1,0,2025-02
+E0026,Sales,7.75,35,Female,7.0,4.0,0.2,Performance termination,2025-07-25,0,1,2025-07
+E0027,Engineering,0.93,28,Female,5.0,4.0,6.0,Better pay,2025-06-24,1,0,2025-06
+E0028,Engineering,1.17,33,Female,8.0,4.0,1.8,Performance termination,2024-06-14,0,0,2024-06
+E0029,Finance,2.83,28,Male,6.0,4.0,4.7,Other,2024-03-25,1,0,2024-03
+E0030,Sales,0.6,30,Female,6.0,5.0,1.4,Better pay,2024-05-19,1,0,2024-05
+E0031,Sales,6.9,26,Male,5.0,4.0,2.6,Work-life balance,2024-04-02,1,1,2024-04
+E0032,Sales,3.74,36,Female,6.0,3.0,3.5,Relocation,2024-10-25,1,0,2024-10
+E0033,Sales,0.26,34,Male,6.0,4.0,1.4,Relocation,2025-05-11,1,0,2025-05
+E0034,HR,0.87,41,Female,5.0,4.0,0.1,Retirement,2025-04-22,1,0,2025-04
+E0035,Marketing,1.08,26,Male,7.0,4.0,0.5,Performance termination,2024-09-04,0,0,2024-09
+E0036,Finance,3.06,41,Female,6.0,3.0,2.4,Health,2023-10-19,1,0,2023-10
+E0037,Marketing,0.29,31,Male,4.0,3.0,2.7,Better pay,2024-09-10,1,0,2024-09
+E0038,Product,8.19,22,Female,4.0,4.0,2.4,Relocation,2024-07-18,1,1,2024-07
+E0039,Product,2.48,33,Female,7.0,5.0,0.7,Performance termination,2024-10-09,0,0,2024-10
+E0040,HR,2.42,27,Male,5.0,2.0,0.6,Work-life balance,2024-03-23,1,0,2024-03
+E0041,Engineering,7.06,35,Male,5.0,4.0,1.3,Other,2025-02-05,1,1,2025-02
+E0042,Engineering,2.25,35,Female,6.0,2.0,3.4,Other,2023-12-27,1,0,2023-12
+E0043,Marketing,2.03,28,Female,6.0,4.0,0.6,Relocation,2024-07-13,1,0,2024-07
+E0044,Marketing,3.54,32,Male,6.0,3.0,1.9,Performance termination,2024-03-03,0,0,2024-03
+E0045,Finance,5.84,50,Female,7.0,4.0,0.9,Career growth,2025-04-19,1,1,2025-04
+E0046,HR,6.03,34,Female,3.0,4.0,7.8,Performance termination,2025-08-10,0,1,2025-08
+E0047,Sales,0.59,37,Male,4.0,5.0,0.4,Work-life balance,2023-11-06,1,0,2023-11
+E0048,HR,5.18,36,Female,5.0,3.0,1.6,Performance termination,2023-12-27,0,1,2023-12
+E0049,Product,0.58,23,Male,6.0,4.0,1.4,Retirement,2025-06-17,1,0,2025-06
+E0050,Marketing,0.16,38,Female,5.0,3.0,1.5,Retirement,2024-09-11,1,0,2024-09
+E0051,Support,0.1,20,Male,6.0,4.0,1.5,Work-life balance,2025-09-17,1,0,2025-09
+E0052,Engineering,3.34,34,Female,3.0,3.0,2.1,Career growth,2025-05-09,1,0,2025-05
+E0053,Engineering,1.93,24,Male,5.0,3.0,1.7,Work-life balance,2024-11-21,1,0,2024-11
+E0054,Marketing,2.33,30,Male,6.0,3.0,3.7,Retirement,2025-02-01,1,0,2025-02
+E0055,Engineering,2.98,26,Non-binary,7.0,3.0,2.6,Career growth,2024-03-07,1,0,2024-03
+E0056,Marketing,2.03,21,Female,7.0,4.0,2.5,Retirement,2023-12-18,1,0,2023-12
+E0057,Sales,2.18,20,Male,5.0,4.0,9.2,Better pay,2025-09-19,1,0,2025-09
+E0058,Support,0.23,32,Female,5.0,3.0,9.4,Other,2024-02-22,1,0,2024-02
+E0059,Sales,6.52,37,Female,4.0,4.0,0.4,Other,2024-09-18,1,1,2024-09
+E0060,Support,5.96,38,Female,3.0,4.0,1.7,Work-life balance,2025-05-10,1,1,2025-05
+E0061,Marketing,1.21,38,Male,5.0,4.0,2.4,Other,2024-05-20,1,0,2024-05
+E0062,Finance,2.42,39,Female,6.0,4.0,1.7,Performance termination,2024-04-28,0,0,2024-04
+E0063,Product,3.51,27,Male,5.0,2.0,0.3,Other,2025-08-16,1,0,2025-08
+E0064,HR,3.69,33,Male,6.0,3.0,5.9,Career growth,2024-09-01,1,0,2024-09
+E0065,Marketing,0.37,28,Male,7.0,4.0,5.1,Performance termination,2025-05-28,0,0,2025-05
+E0066,Engineering,2.15,23,Female,8.0,3.0,0.3,Other,2025-10-01,1,0,2025-10
+E0067,Finance,1.83,32,Male,6.0,3.0,0.8,Performance termination,2024-03-06,0,0,2024-03
+E0068,HR,4.98,32,Male,7.0,4.0,4.9,Performance termination,2025-04-08,0,0,2025-04
+E0069,Support,0.81,22,Male,6.0,4.0,1.5,Other,2024-10-07,1,0,2024-10
+E0070,Product,2.26,33,Male,6.0,5.0,2.5,Health,2025-03-22,1,0,2025-03
+E0071,Product,1.64,25,Male,6.0,2.0,0.6,Career growth,2025-04-23,1,0,2025-04
+E0072,HR,0.1,36,Female,4.0,4.0,0.2,Performance termination,2025-02-05,0,0,2025-02
+E0073,Product,5.46,25,Male,5.0,3.0,1.6,Health,2025-09-25,1,1,2025-09
+E0074,Support,3.33,35,Female,7.0,4.0,3.6,Better pay,2025-01-19,1,0,2025-01
+E0075,Product,1.43,29,Male,5.0,4.0,1.3,Health,2023-10-12,1,0,2023-10
+E0076,Product,1.8,39,Male,7.0,3.0,0.6,Career growth,2025-07-19,1,0,2025-07
+E0077,Finance,1.89,31,Female,6.0,3.0,0.0,Performance termination,2025-09-05,0,0,2025-09
+E0078,Marketing,5.18,44,Female,7.0,2.0,0.9,Other,2024-10-04,1,1,2024-10
+E0079,Engineering,0.24,24,Female,4.0,4.0,6.0,Work-life balance,2025-08-08,1,0,2025-08
+E0080,Support,6.9,26,Male,6.0,4.0,2.9,Relocation,2024-05-19,1,1,2024-05
+E0081,Sales,1.08,28,Male,5.0,5.0,6.9,Better pay,2025-06-22,1,0,2025-06
+E0082,Product,1.12,23,Male,6.0,4.0,7.9,Health,2024-06-23,1,0,2024-06
+E0083,Product,0.63,40,Non-binary,7.0,3.0,0.4,Better pay,2024-05-22,1,0,2024-05
+E0084,HR,3.97,42,Female,3.0,3.0,0.8,Relocation,2025-04-02,1,0,2025-04
+E0085,HR,2.12,52,Female,7.0,4.0,0.5,Work-life balance,2024-11-25,1,0,2024-11
+E0086,Product,11.6,37,Male,4.0,5.0,2.9,Better pay,2024-10-08,1,1,2024-10
+E0087,Product,3.29,28,Male,7.0,3.0,0.0,Other,2024-02-25,1,0,2024-02
+E0088,Engineering,1.24,28,Male,7.0,4.0,0.1,Retirement,2024-02-26,1,0,2024-02
+E0089,Marketing,2.62,34,Female,5.0,3.0,3.5,Relocation,2024-05-03,1,0,2024-05
+E0090,Engineering,8.69,42,Female,5.0,3.0,1.7,Work-life balance,2024-01-31,1,1,2024-01
+E0091,HR,1.24,28,Male,6.0,3.0,1.1,Career growth,2025-08-25,1,0,2025-08
+E0092,Sales,3.21,27,Male,6.0,3.0,3.5,Work-life balance,2024-03-13,1,0,2024-03
+E0093,Support,1.96,41,Female,7.0,4.0,0.8,Better pay,2024-03-24,1,0,2024-03
+E0094,Support,2.85,42,Male,7.0,3.0,3.4,Better pay,2023-10-15,1,0,2023-10
+E0095,Support,0.75,27,Male,5.0,2.0,3.4,Better pay,2024-11-10,1,0,2024-11
+E0096,Sales,0.1,41,Male,6.0,3.0,0.4,Other,2024-04-26,1,0,2024-04
+E0097,Engineering,2.18,36,Male,5.0,4.0,0.0,Performance termination,2023-12-26,0,0,2023-12
+E0098,Sales,4.27,32,Female,3.0,5.0,3.0,Other,2025-07-10,1,0,2025-07
+E0099,Support,0.8,33,Female,7.0,4.0,0.6,Work-life balance,2024-09-10,1,0,2024-09
+E0100,Sales,0.97,39,Male,7.0,3.0,0.5,Better pay,2024-02-05,1,0,2024-02
+E0101,Support,3.68,50,Female,5.0,3.0,3.2,Work-life balance,2025-05-02,1,0,2025-05
+E0102,Engineering,2.28,23,Male,7.0,3.0,8.3,Career growth,2023-10-12,1,0,2023-10
+E0103,Engineering,0.19,41,Male,4.0,4.0,0.1,Other,2025-03-02,1,0,2025-03
+E0104,Support,0.39,34,Male,5.0,4.0,1.5,Better pay,2024-02-21,1,0,2024-02
+E0105,Engineering,1.26,28,Male,7.0,4.0,2.0,Better pay,2024-01-06,1,0,2024-01
+E0106,Engineering,6.88,33,Female,6.0,4.0,1.5,Better pay,2024-09-07,1,1,2024-09
+E0107,Finance,1.51,40,Female,6.0,3.0,1.3,Performance termination,2025-02-01,0,0,2025-02
+E0108,Engineering,9.31,25,Female,5.0,5.0,7.4,Other,2023-12-29,1,1,2023-12
+E0109,Engineering,1.29,36,Male,6.0,3.0,3.7,Career growth,2024-05-04,1,0,2024-05
+E0110,Support,3.65,54,Male,6.0,4.0,2.1,Other,2024-09-26,1,0,2024-09
+E0111,Sales,1.11,22,Male,6.0,4.0,2.0,Work-life balance,2024-04-24,1,0,2024-04
+E0112,Marketing,0.5,32,Male,7.0,2.0,2.1,Health,2025-09-04,1,0,2025-09
+E0113,Sales,2.67,34,Male,4.0,3.0,0.8,Relocation,2024-10-06,1,0,2024-10
+E0114,HR,0.71,43,Male,7.0,4.0,2.4,Better pay,2025-04-29,1,0,2025-04
+E0115,Finance,2.04,41,Male,3.0,4.0,1.4,Better pay,2025-03-10,1,0,2025-03
+E0116,Support,1.27,46,Male,6.0,3.0,1.5,Work-life balance,2025-05-04,1,0,2025-05
+E0117,Engineering,0.92,36,Female,6.0,3.0,2.4,Better pay,2024-11-25,1,0,2024-11
+E0118,Marketing,1.17,34,Female,5.0,4.0,1.0,Health,2025-07-25,1,0,2025-07
+E0119,Product,1.07,38,Male,7.0,3.0,1.7,Performance termination,2024-05-31,0,0,2024-05
+E0120,Engineering,2.63,39,Female,6.0,3.0,2.0,Career growth,2023-10-22,1,0,2023-10
+E0121,Product,1.2,26,Male,4.0,4.0,2.2,Other,2025-09-29,1,0,2025-09
+E0122,Product,7.56,33,Male,4.0,5.0,0.0,Relocation,2024-08-21,1,1,2024-08
+E0123,HR,5.68,35,Male,5.0,3.0,1.6,Relocation,2024-09-24,1,1,2024-09
+E0124,Sales,0.92,34,Male,7.0,3.0,2.3,Better pay,2024-02-24,1,0,2024-02
+E0125,Finance,0.51,21,Male,5.0,3.0,2.0,Performance termination,2025-05-14,0,0,2025-05
+E0126,Product,4.28,31,Male,6.0,3.0,2.6,Career growth,2024-01-29,1,0,2024-01
+E0127,HR,2.75,28,Male,5.0,3.0,1.6,Career growth,2023-12-11,1,0,2023-12
+E0128,Engineering,0.1,41,Male,8.0,4.0,2.4,Better pay,2024-03-27,1,0,2024-03
+E0129,HR,3.16,51,Female,7.0,5.0,2.1,Other,2023-11-26,1,0,2023-11
+E0130,Engineering,0.98,28,Male,5.0,3.0,2.1,Other,2024-09-16,1,0,2024-09
+E0131,HR,0.53,37,Male,4.0,3.0,0.4,Performance termination,2024-12-19,0,0,2024-12
+E0132,Support,0.47,22,Female,3.0,4.0,7.3,Better pay,2024-01-11,1,0,2024-01
+E0133,Marketing,6.54,35,Male,8.0,3.0,1.9,Better pay,2024-06-29,1,1,2024-06
+E0134,Support,3.08,27,Male,5.0,3.0,1.5,Work-life balance,2024-08-09,1,0,2024-08
+E0135,Support,2.14,21,Male,3.0,4.0,1.5,Health,2024-06-27,1,0,2024-06
+E0136,Finance,3.9,29,Male,6.0,4.0,1.7,Better pay,2025-01-22,1,0,2025-01
+E0137,Finance,6.4,32,Male,5.0,4.0,2.2,Better pay,2024-06-07,1,1,2024-06
+E0138,Engineering,0.1,36,Male,6.0,3.0,1.9,Better pay,2025-08-03,1,0,2025-08
+E0139,Sales,1.22,31,Male,6.0,3.0,1.1,Better pay,2025-06-25,1,0,2025-06
+E0140,Engineering,3.82,27,Female,5.0,3.0,2.1,Better pay,2024-08-06,1,0,2024-08
+E0141,HR,0.35,27,Female,5.0,3.0,1.0,Performance termination,2023-12-27,0,0,2023-12
+E0142,Engineering,1.35,30,Male,6.0,2.0,0.6,Performance termination,2025-03-03,0,0,2025-03
+E0143,Engineering,0.17,34,Male,7.0,3.0,0.3,Better pay,2024-04-04,1,0,2024-04
+E0144,Sales,3.34,20,Male,6.0,3.0,0.6,Career growth,2025-09-22,1,0,2025-09
+E0145,Marketing,0.73,40,Female,4.0,4.0,0.1,Better pay,2025-04-12,1,0,2025-04
+E0146,Engineering,3.34,47,Male,5.0,3.0,3.0,Career growth,2024-09-06,1,0,2024-09
+E0147,Support,1.1,42,Male,5.0,3.0,0.5,Other,2024-11-07,1,0,2024-11
+E0148,Sales,0.58,34,Female,5.0,3.0,1.7,Work-life balance,2024-10-16,1,0,2024-10
+E0149,Product,2.4,39,Male,5.0,2.0,1.2,Health,2024-01-15,1,0,2024-01
+E0150,Marketing,0.69,31,Female,6.0,4.0,1.6,Better pay,2025-05-06,1,0,2025-05
+E0151,Support,1.54,34,Female,7.0,4.0,5.5,Other,2024-06-23,1,0,2024-06
+E0152,Engineering,2.89,24,Male,6.0,4.0,0.2,Better pay,2025-06-16,1,0,2025-06
+E0153,Support,3.58,43,Male,6.0,3.0,2.6,Work-life balance,2025-02-13,1,0,2025-02
+E0154,Support,2.91,37,Male,4.0,4.0,3.7,Other,2025-07-24,1,0,2025-07
+E0155,Marketing,14.02,38,Male,6.0,4.0,0.0,Performance termination,2024-08-23,0,1,2024-08
+E0156,Engineering,0.46,30,Male,5.0,3.0,0.1,Health,2024-04-14,1,0,2024-04
+E0157,Support,4.09,35,Male,5.0,3.0,2.5,Other,2023-10-29,1,0,2023-10
+E0158,Product,1.17,35,Male,5.0,3.0,2.1,Health,2024-08-27,1,0,2024-08
+E0159,Support,1.71,37,Male,6.0,3.0,1.8,Other,2024-01-11,1,0,2024-01
+E0160,Sales,1.82,35,Male,6.0,3.0,1.3,Career growth,2024-02-28,1,0,2024-02
+E0161,Support,0.13,35,Female,6.0,3.0,0.7,Better pay,2024-01-23,1,0,2024-01
+E0162,Sales,0.76,35,Male,6.0,5.0,0.1,Relocation,2024-02-14,1,0,2024-02
+E0163,Support,2.06,31,Male,6.0,4.0,0.3,Work-life balance,2025-03-17,1,0,2025-03
+E0164,Sales,4.4,36,Male,7.0,2.0,5.9,Better pay,2024-07-14,1,0,2024-07
+E0165,Engineering,0.41,37,Male,6.0,4.0,2.6,Other,2023-11-21,1,0,2023-11
+E0166,Finance,1.99,23,Female,7.0,2.0,1.1,Other,2024-01-04,1,0,2024-01
+E0167,Support,0.86,37,Female,5.0,4.0,4.1,Relocation,2025-05-01,1,0,2025-05
+E0168,Sales,3.53,22,Female,6.0,3.0,0.1,Other,2025-01-21,1,0,2025-01
+E0169,Sales,0.83,22,Male,5.0,2.0,0.4,Career growth,2025-01-07,1,0,2025-01
+E0170,Product,0.85,35,Female,7.0,4.0,1.6,Work-life balance,2024-09-11,1,0,2024-09
+E0171,Sales,4.87,38,Female,5.0,3.0,1.2,Better pay,2024-10-01,1,0,2024-10
+E0172,Engineering,5.35,33,Female,7.0,4.0,1.1,Other,2025-01-28,1,1,2025-01
+E0173,Engineering,2.9,43,Male,4.0,4.0,0.7,Career growth,2024-06-03,1,0,2024-06
+E0174,Product,3.1,30,Female,4.0,5.0,0.6,Career growth,2025-04-29,1,0,2025-04
+E0175,Finance,0.27,32,Male,5.0,2.0,1.7,Other,2025-01-02,1,0,2025-01
+E0176,Finance,1.59,33,Male,6.0,3.0,1.35,Better pay,2025-10-01,1,0,2025-10
+E0177,Finance,0.82,34,Female,4.0,4.0,0.7,Performance termination,2024-12-04,0,0,2024-12
+E0178,Support,5.85,37,Male,5.0,3.0,1.0,Career growth,2023-10-31,1,1,2023-10
+E0179,Sales,9.41,25,Male,5.0,4.0,2.8,Other,2023-10-20,1,1,2023-10
+E0180,Finance,10.02,40,Female,7.0,3.0,0.2,Work-life balance,2024-12-20,1,1,2024-12
+E0181,Engineering,2.09,31,Male,7.0,4.0,0.8,Other,2024-02-12,1,0,2024-02
+E0182,Marketing,0.51,32,Female,4.0,3.0,1.3,Relocation,2025-03-15,1,0,2025-03
+E0183,Marketing,2.77,33,Female,7.0,5.0,1.2,Work-life balance,2024-04-23,1,0,2024-04
+E0184,Product,5.58,47,Female,4.0,4.0,3.1,Health,2024-03-02,1,1,2024-03
+E0185,Support,7.52,21,Female,6.0,4.0,1.8,Work-life balance,2023-10-03,1,1,2023-10
+E0186,Marketing,0.68,20,Male,4.0,3.0,0.0,Performance termination,2024-12-04,0,0,2024-12
+E0187,Engineering,4.48,20,Female,4.0,3.0,0.7,Better pay,2024-10-23,1,0,2024-10
+E0188,Engineering,2.4,30,Male,5.0,3.0,1.1,Career growth,2024-07-03,1,0,2024-07
+E0189,Support,0.75,28,Female,6.0,4.0,1.8,Other,2023-12-14,1,0,2023-12
+E0190,Engineering,1.21,20,Male,5.0,4.0,0.9,Work-life balance,2025-01-09,1,0,2025-01
+E0191,Product,0.37,31,Male,6.0,3.0,1.5,Relocation,2024-12-10,1,0,2024-12
+E0192,Finance,2.97,20,Male,8.0,3.0,2.1,Other,2024-12-29,1,0,2024-12
+E0193,Support,1.4,37,Female,7.0,3.0,3.9,Other,2025-08-22,1,0,2025-08
+E0194,HR,0.96,20,Female,7.0,3.0,0.1,Work-life balance,2025-03-23,1,0,2025-03
+E0195,Marketing,1.04,30,Male,6.0,4.0,0.9,Other,2024-01-13,1,0,2024-01
+E0196,Product,2.05,33,Male,5.0,3.0,2.8,Health,2025-01-30,1,0,2025-01
+E0197,Sales,5.76,38,Male,6.0,3.0,0.7,Other,2024-07-28,1,1,2024-07
+E0198,Engineering,0.1,32,Male,6.0,3.0,0.4,Health,2024-10-26,1,0,2024-10
+E0199,Sales,0.79,40,Female,7.0,2.0,1.3,Work-life balance,2024-07-24,1,0,2024-07
+E0200,Support,3.32,25,Female,5.0,4.0,0.3,Other,2025-07-03,1,0,2025-07
+E0201,Marketing,3.2,32,Male,6.0,3.0,1.3,Work-life balance,2024-04-26,1,0,2024-04
+E0202,Marketing,7.45,26,Female,5.0,5.0,1.0,Retirement,2023-10-18,1,1,2023-10
+E0203,Marketing,1.12,24,Female,4.0,2.0,6.2,Retirement,2025-08-15,1,0,2025-08
+E0204,Marketing,0.15,25,Male,5.0,4.0,2.6,Health,2024-03-15,1,0,2024-03
+E0205,Product,2.5,38,Female,7.0,3.0,12.3,Relocation,2025-01-11,1,0,2025-01
+E0206,Marketing,0.24,41,Male,3.0,4.0,1.9,Relocation,2025-06-20,1,0,2025-06
+E0207,Sales,3.21,36,Male,8.0,4.0,0.2,Better pay,2024-10-09,1,0,2024-10
+E0208,Sales,0.2,43,Female,5.0,2.0,3.3,Better pay,2024-01-09,1,0,2024-01
+E0209,HR,5.91,27,Male,6.0,3.0,1.1,Performance termination,2024-12-25,0,1,2024-12
+E0210,Engineering,5.49,20,Male,5.0,2.0,3.3,Other,2025-09-10,1,1,2025-09
+E0211,Product,0.32,38,Female,5.0,3.0,0.1,Retirement,2023-10-17,1,0,2023-10
+E0212,HR,0.27,36,Female,5.0,3.0,2.7,Work-life balance,2025-04-28,1,0,2025-04
+E0213,Marketing,4.38,50,Male,6.0,4.0,1.9,Relocation,2024-01-17,1,0,2024-01
+E0214,Marketing,2.81,38,Female,6.0,3.0,2.9,Other,2024-07-07,1,0,2024-07
+E0215,Support,0.88,30,Male,6.0,4.0,1.1,Work-life balance,2024-12-03,1,0,2024-12
+E0216,Engineering,2.52,30,Male,6.0,4.0,3.2,Work-life balance,2025-04-12,1,0,2025-04
+E0217,Engineering,1.26,30,Female,6.0,3.0,0.1,Better pay,2024-04-25,1,0,2024-04
+E0218,Engineering,0.3,20,Female,5.0,3.0,1.5,Career growth,2025-04-03,1,0,2025-04
+E0219,Sales,3.23,26,Female,6.0,3.0,0.3,Better pay,2024-05-18,1,0,2024-05
+E0220,Engineering,3.68,31,Male,5.0,4.0,0.0,Career growth,2024-03-26,1,0,2024-03
+E0221,Support,1.99,43,Female,7.0,4.0,0.3,Career growth,2024-01-25,1,0,2024-01
+E0222,Engineering,0.65,32,Female,4.0,3.0,0.5,Career growth,2024-05-28,1,0,2024-05
+E0223,Support,5.66,33,Female,6.0,4.0,5.9,Other,2025-06-22,1,1,2025-06
+E0224,Sales,1.59,35,Male,7.0,2.0,1.5,Other,2025-09-17,1,0,2025-09
+E0225,Sales,7.44,47,Female,4.0,4.0,1.3,Other,2024-05-27,1,1,2024-05
+E0226,Engineering,4.64,29,Female,7.0,4.0,1.8,Career growth,2024-11-25,1,0,2024-11
+E0227,Engineering,0.1,35,Male,5.0,5.0,6.8,Other,2024-04-30,1,0,2024-04
+E0228,Engineering,1.62,26,Female,7.0,5.0,0.0,Better pay,2024-01-28,1,0,2024-01
+E0229,Sales,2.01,35,Female,4.0,4.0,0.6,Better pay,2024-10-18,1,0,2024-10
+E0230,Product,2.71,30,Male,5.0,3.0,0.1,Relocation,2024-10-08,1,0,2024-10
+E0231,Product,1.1,21,Female,4.0,4.0,4.2,Career growth,2024-08-24,1,0,2024-08
+E0232,Engineering,1.76,30,Female,7.0,4.0,0.9,Career growth,2024-12-03,1,0,2024-12
+E0233,Marketing,4.67,51,Male,5.0,4.0,3.9,Other,2024-05-26,1,0,2024-05
+E0234,Engineering,0.18,33,Male,7.0,4.0,0.3,Work-life balance,2024-07-26,1,0,2024-07
+E0235,Product,0.83,25,Male,5.0,3.0,0.9,Health,2023-12-22,1,0,2023-12
+E0236,Engineering,0.57,32,Female,4.0,4.0,2.8,Career growth,2024-11-30,1,0,2024-11
+E0237,Marketing,4.26,26,Male,6.0,3.0,2.8,Other,2025-03-03,1,0,2025-03
+E0238,Product,0.41,23,Female,3.0,2.0,0.6,Health,2024-03-21,1,0,2024-03
+E0239,Sales,3.13,33,Female,6.0,5.0,2.4,Other,2025-06-28,1,0,2025-06
+E0240,Engineering,4.07,30,Male,5.0,3.0,2.9,Better pay,2025-04-10,1,0,2025-04
+E0241,HR,1.99,25,Male,4.0,4.0,3.0,Performance termination,2024-08-09,0,0,2024-08
+E0242,Engineering,3.04,32,Male,6.0,4.0,2.5,Relocation,2024-09-07,1,0,2024-09
+E0243,Engineering,8.14,33,Female,6.0,3.0,0.8,Work-life balance,2025-09-10,1,1,2025-09
+E0244,Support,3.98,37,Male,5.0,4.0,0.9,Relocation,2024-08-27,1,0,2024-08
+E0245,Marketing,1.41,28,Female,5.0,2.0,0.8,Health,2024-07-09,1,0,2024-07
+E0246,Engineering,1.2,29,Female,6.0,4.0,1.6,Better pay,2024-08-16,1,0,2024-08
+E0247,HR,3.35,31,Female,5.0,2.0,2.7,Better pay,2024-05-06,1,0,2024-05
+E0248,Sales,2.67,33,Male,5.0,3.0,2.1,Work-life balance,2024-08-14,1,0,2024-08
+E0249,Support,3.04,31,Male,8.0,3.0,0.0,Career growth,2024-07-07,1,0,2024-07
+E0250,Marketing,0.28,36,Male,6.0,3.0,1.7,Performance termination,2025-05-18,0,0,2025-05
+E0251,HR,7.9,44,Male,6.0,3.0,2.7,Career growth,2023-11-12,1,1,2023-11
+E0252,Engineering,3.45,32,Male,7.0,4.0,0.6,Work-life balance,2025-03-04,1,0,2025-03
+E0253,Engineering,2.65,32,Female,4.0,2.0,0.9,Work-life balance,2024-05-17,1,0,2024-05
+E0254,Finance,4.09,23,Female,6.0,3.0,0.5,Better pay,2024-01-22,1,0,2024-01
+E0255,Product,0.78,33,Male,7.0,4.0,2.0,Relocation,2023-11-22,1,0,2023-11
+E0256,HR,2.62,29,Male,5.0,3.0,0.5,Work-life balance,2025-05-26,1,0,2025-05
+E0257,Support,1.32,33,Female,6.0,3.0,4.3,Health,2024-01-20,1,0,2024-01
+E0258,Finance,1.48,32,Male,7.0,3.0,0.8,Performance termination,2025-04-08,0,0,2025-04
+E0259,Product,7.08,36,Female,5.0,2.0,3.2,Health,2025-07-07,1,1,2025-07
+E0260,Finance,4.89,30,Female,8.0,4.0,1.1,Retirement,2025-01-28,1,0,2025-01
+E0261,Engineering,3.17,26,Female,6.0,4.0,1.5,Career growth,2024-04-10,1,0,2024-04
+E0262,Sales,0.46,27,Male,5.0,4.0,2.3,Other,2025-04-10,1,0,2025-04
+E0263,Support,0.57,34,Male,6.0,4.0,5.4,Work-life balance,2024-12-11,1,0,2024-12
+E0264,Engineering,2.94,29,Female,5.0,3.0,1.3,Better pay,2025-03-09,1,0,2025-03
+E0265,Marketing,0.63,32,Female,7.0,4.0,3.7,Health,2024-05-21,1,0,2024-05
+E0266,Engineering,0.84,40,Female,9.0,4.0,0.7,Better pay,2025-03-22,1,0,2025-03
+E0267,Engineering,5.25,31,Male,5.0,4.0,11.7,Career growth,2024-01-06,1,1,2024-01
+E0268,Engineering,1.48,34,Female,6.0,3.0,1.0,Other,2025-08-01,1,0,2025-08
+E0269,Finance,1.17,32,Female,3.0,5.0,3.2,Health,2024-11-22,1,0,2024-11
+E0270,Support,0.1,37,Male,5.0,3.0,1.1,Work-life balance,2024-05-30,1,0,2024-05
+E0271,Product,2.5,30,Male,5.0,4.0,1.8,Other,2024-09-11,1,0,2024-09
+E0272,HR,5.96,23,Male,5.0,4.0,1.6,Other,2024-05-15,1,1,2024-05
+E0273,Sales,7.0,40,Female,4.0,3.0,0.6,Work-life balance,2024-07-22,1,1,2024-07
+E0274,Finance,3.76,28,Male,7.0,3.0,1.1,Health,2024-02-02,1,0,2024-02
+E0275,Engineering,2.04,32,Male,6.0,4.0,1.5,Other,2025-02-14,1,0,2025-02
+E0276,Engineering,3.45,37,Female,7.0,5.0,6.5,Career growth,2024-06-30,1,0,2024-06
+E0277,Sales,3.83,24,Male,5.0,3.0,2.9,Work-life balance,2023-11-07,1,0,2023-11
+E0278,Finance,2.42,47,Female,7.0,5.0,1.7,Work-life balance,2023-12-21,1,0,2023-12
+E0279,Marketing,1.05,29,Male,7.0,4.0,6.0,Relocation,2025-03-27,1,0,2025-03
+E0280,Support,2.83,36,Male,6.0,4.0,2.0,Better pay,2025-01-15,1,0,2025-01
+E0281,HR,0.57,42,Male,7.0,3.0,1.9,Better pay,2025-08-20,1,0,2025-08
+E0282,HR,1.52,37,Female,6.0,4.0,1.8,Health,2025-05-05,1,0,2025-05
+E0283,Support,0.17,35,Male,5.0,4.0,7.5,Work-life balance,2025-04-30,1,0,2025-04
+E0284,Support,0.84,35,Male,6.0,3.0,3.8,Other,2024-10-17,1,0,2024-10
+E0285,Sales,2.01,31,Female,6.0,2.0,1.2,Better pay,2025-07-10,1,0,2025-07
+E0286,Marketing,3.56,32,Male,6.0,3.0,0.9,Retirement,2024-08-08,1,0,2024-08
+E0287,Support,0.16,27,Male,6.0,3.0,1.3,Better pay,2024-09-22,1,0,2024-09
+E0288,Support,2.4,32,Female,5.0,3.0,2.5,Work-life balance,2025-04-04,1,0,2025-04
+E0289,HR,1.53,40,Female,7.0,4.0,0.3,Retirement,2024-04-25,1,0,2024-04
+E0290,Marketing,5.51,24,Male,5.0,4.0,3.2,Relocation,2024-07-20,1,1,2024-07
+E0291,Support,1.35,32,Male,8.0,4.0,7.0,Work-life balance,2025-07-22,1,0,2025-07
+E0292,Sales,2.71,34,Male,5.0,4.0,7.0,Other,2025-07-22,1,0,2025-07
+E0293,Sales,3.85,29,Male,6.0,4.0,8.9,Career growth,2025-05-28,1,0,2025-05
+E0294,Engineering,0.62,30,Male,5.0,4.0,1.2,Better pay,2025-01-02,1,0,2025-01
+E0295,Sales,0.68,41,Female,7.0,4.0,3.0,Better pay,2023-11-01,1,0,2023-11
+E0296,Engineering,1.67,46,Non-binary,5.0,3.0,0.5,Performance termination,2024-03-14,0,0,2024-03
+E0297,Support,0.64,35,Female,6.0,4.0,5.3,Other,2024-09-30,1,0,2024-09
+E0298,Engineering,0.1,22,Male,6.0,2.0,3.2,Career growth,2023-10-31,1,0,2023-10
+E0299,Engineering,2.1,38,Female,7.0,4.0,0.8,Career growth,2024-05-27,1,0,2024-05
