@@ -1,4 +1,5 @@
 # Employee-Exit-Survey-Analysis
+<img width="2501" height="1307" alt="Untitled design" src="https://github.com/user-attachments/assets/e311e978-99f4-474f-810e-b87dce457285" />
 
 # 🧠 Employee Exit Survey Analysis
 
